@@ -1,0 +1,5 @@
+python-hwdata source: file-without-copyright-information
+python-hwdata source: no-debian-changes
+python-hwdata source: source-contains-prebuilt-windows-binary
+python-hwdata source: source-is-missing
+python-hwdata source: source-package-encodes-python-version
