@@ -1,0 +1,4 @@
+python3-hwdata: copyright-without-copyright-notice
+python3-hwdata: initial-upload-closes-no-bugs
+python3-hwdata: no-manual-page
+python3-hwdata: zero-byte-file-in-doc-directory
